@@ -14,12 +14,12 @@ import {
   Sparkles,
   Heart
 } from 'lucide-react';
-import ats from '@/../public/ats.avif';
-import bhutani from '@/../public/bhutani.avif';
-import godrej from '@/../public/godrej.avif';
-import dlf from '@/../public/dlf.avif';
-import tataValue from '@/../public/tataValue.avif';
-import eldeco from '@/../public/eldeco.avif';
+import ats from '@/../public/ats.webp';
+import bhutani from '@/../public/bhutani.webp';
+import godrej from '@/../public/godrej.webp';
+import dlf from '@/../public/dlf.webp';
+import tataValue from '@/../public/tataValue.webp';
+import eldeco from '@/../public/eldeco.webp';
 import ace from '@/../public/ace.png';
 import eternia from '@/../public/eternia1.webp';
 
